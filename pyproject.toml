@@ -28,9 +28,9 @@ classifiers = [
 keywords = ["credit card", "validation", "luhn", "payment", "rupay"]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/cardvalidator"
-Repository = "https://github.com/yourusername/cardvalidator"
-Issues = "https://github.com/yourusername/cardvalidator/issues"
+Homepage = "https://github.com/vishvaRam/CardValidator.git"
+Repository = "https://github.com/vishvaRam/CardValidator.git"
+Issues = "https://github.com/vishvaRam/CardValidator/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/cardvalidator"]
