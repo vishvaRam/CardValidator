@@ -16,13 +16,13 @@ A Python library for credit card validation using the Luhn algorithm. Supports v
 ## Installation
 
 ```
-pip install cardvalidator
+pip install cardvalidator-lite
 ```
 
 Or with [UV](https://github.com/astral-sh/uv):
 
 ```
-uv add cardvalidator
+uv add cardvalidator-lite
 ```
 
 ## Quick Start
